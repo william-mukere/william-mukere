@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋 My Name is William Mukere
+
+### RPA Champion| Innovation Champion| Microsoft Power platform Developer| Data Analyst| Python Programmer
 
 <!--
 **william-mukere/william-mukere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
