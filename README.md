@@ -1,6 +1,6 @@
 ## Hi there 👋 My Name is William Mukere
 
-### Senior Business Process Analyst|RPA Champion| Innovation Champion| Microsoft Power platform Developer| Data Analyst| Python Programmer
+### Process Analyst| RPA Champion| Innovation Champion| Microsoft Power platform Developer| Data Analyst| Python Programmer
 
 _I am Data-driven expert with 5 years’ experience in Insurance industry majorly in claims analysis and mitigation of cost, underwriting of risks for individual clients and scheme management. I have led successful implementation of several health insurance products and products revamped. I have won three awards in innovation of various insurance products, robotic process automation for internal systems and member management._
 
